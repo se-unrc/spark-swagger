@@ -62,7 +62,7 @@
         <repository>
             <id>github</id>
             <name>Github OSS Packages</name>
-            <url>https://maven.pkg.github.com/manusant/spark-swagger</url>
+            <url>https://maven.pkg.github.com/se-unrc/spark-swagger</url>
         </repository>
     </distributionManagement>
 
