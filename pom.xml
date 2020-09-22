@@ -27,9 +27,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/manusant/spark-swagger</url>
-        <connection>scm:git:https://github.com/manusant/spark-swagger.git</connection>
-        <developerConnection>scm:git:https://github.com/manusant/spark-swagger.git</developerConnection>
+        <url>https://github.com/se-unrc/spark-swagger</url>
+        <connection>scm:git:https://github.com/se-unrc/spark-swagger.git</connection>
+        <developerConnection>scm:git:https://github.com/se-unrc/spark-swagger.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
